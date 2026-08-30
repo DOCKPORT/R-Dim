@@ -1,3 +1,6 @@
+
+> This project is in the early stages of development.
+
 # R-Dim
 
 R-Dim is a Rust linux binary that allows you to adjust your screen brightness and color temp.
