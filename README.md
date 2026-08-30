@@ -1,17 +1,14 @@
-
-> This project is in the early stages of development.
-
 # R-Dim
 
-R-Dim is a Rust linux binary that allows you to adjust your screen brightness and color temp.
+R-Dim is a Rust linux binary that adjusts screen brightness and color temp.
 
-- 4 presets are available : Night, Super-night, Full-Night and Day. 
+- 4 presets are available : night, supernight, fullnight and day. 
 
 
 ## Usage 
 
 - Place the binary in your prefered directory.
 - From your distro's keyboard manager, add keyboard shortcut(s) to the directory.
-- - Example: "/home/dockport/R-Dim --night" 
-- Assign a keyboard button to that path. The shortcut will run the --night preset.
-- Presets are: --night, --supernight, --fullnight and --day
+- - Example: /home/dockport/r-dim night
+- Assign a keyboard button to that path. The shortcut will run the night preset.
+- Presets are: night, supernight, fullnight and day.
